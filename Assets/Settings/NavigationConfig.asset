@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4000000000000000000000000000008, type: 3}
+  m_Name: NavigationConfig
+  m_EditorClassIdentifier: 
+  arrivalRadius: 1.2
+  arrivalConfirmationFrames: 3
+  arrowSpacing: 1
+  arrowHeightOffset: 0.05
+  arrowScale: {x: 0.45, y: 0.45, z: 0.45}
+  modelForwardRotationOffset: {x: 0, y: 0, z: 0}
+  rotationSmoothingSpeed: 8
+  maxActiveArrows: 25
+  destinationExitLabel: EMERGENCY FIRE EXIT STAIRWELL B

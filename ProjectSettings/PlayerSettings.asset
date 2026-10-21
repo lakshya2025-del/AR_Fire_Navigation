@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 26
+  productName: AR Fire Navigation
+  companyName: UniversityAR
+  defaultScreenWidth: 1080
+  defaultScreenHeight: 1920
+  defaultIsFullScreen: 1
+  runInBackground: 1
+  activeInputHandler: 2
+  colorSpace: 1
+  defaultInterfaceOrientation: 1
+  allowedAutorotateToPortrait: 1
+  allowedAutorotateToPortraitUpsideDown: 0
+  allowedAutorotateToLandscapeRight: 0
+  allowedAutorotateToLandscapeLeft: 0
+  useOSAutorotation: 0
+  cameraUsageDescription: Camera access is required for AR emergency exit navigation and floor tracking.
+  Android:
+    targetArchitectures: 2
+    minSdkVersion: 26
+    targetSdkVersion: 34
+    preferredInstallLocation: 0
+    packageVersionName: 1.0.0
+    bundleVersionCode: 1
+    applicationIdentifier: com.university.arfirenavigation
